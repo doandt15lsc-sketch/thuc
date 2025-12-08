@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="32" fill="#061222" />
+  <circle cx="120" cy="88" r="52" fill="url(#g)" opacity="0.98" />
+  <rect x="46" y="150" width="148" height="56" rx="12" fill="#0b1220" stroke="#0e1724" />
+  <text x="120" y="96" font-size="40" font-family="Segoe UI, Roboto, Arial" fill="#fff" text-anchor="middle" alignment-baseline="middle" font-weight="700">DT</text>
+  <text x="120" y="186" font-size="16" font-family="Inter, Roboto, Arial" fill="#9ca3af" text-anchor="middle">Đặng Thục Đoan</text>
+</svg>
